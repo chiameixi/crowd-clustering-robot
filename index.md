@@ -1,4 +1,4 @@
-## about
+## Crowd Clustering Detection and Dispersion Robot using RSSI signals from phones
 This was a project made by Chia Mei Xi in collaboration with Nikitha Komati Reddy, under the mentorship of Mr Wong Yew Keong.
 
 The ongoing Covid-19 pandemic has popularised the usage of bluetooth signals from devices to assist the process of contact tracing. The purpose of our project was to utilise bluetooth signals for an alternate purpose: to read devices’ Received Signal Strength Indicator (RSSI) values in order to create a robot that would assist in cluster detection and dispersion, hence easing the enforcement of Safe Management Measures (SMM). 
