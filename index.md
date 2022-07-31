@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## about
+This was a project made by Chia Mei Xi in collaboration with Nikitha Komati Reddy, under the mentorship of Mr Wong Yew Keong.
 
-You can use the [editor on GitHub](https://github.com/chiameixi/crowd-clustering-robot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The ongoing Covid-19 pandemic has popularised the usage of bluetooth signals from devices to assist the process of contact tracing. The purpose of our project was to utilise bluetooth signals for an alternate purpose: to read devices’ Received Signal Strength Indicator (RSSI) values in order to create a robot that would assist in cluster detection and dispersion, hence easing the enforcement of Safe Management Measures (SMM). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### supporting links
+**The following supporting documents to our project can be accessed via the links below**
+1. Processing simulation of crowd clustering and angle determination algorithms: https://youtu.be/ak8gRCcsgVY
+2. Controlling volume via analysis of PWM: https://youtu.be/8S2DUtbck6A 
+3. Instance of robot movement: https://youtu.be/ZpbFvkNczKo
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chiameixi/crowd-clustering-robot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Flowchart of Algorithm.zip](https://github.com/chiameixi/crowd-clustering-robot/files/9228021/Flowchart.of.Algorithm.zip)
