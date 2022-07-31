@@ -9,4 +9,7 @@ The ongoing Covid-19 pandemic has popularised the usage of bluetooth signals fro
 2. Controlling volume via analysis of PWM: https://youtu.be/8S2DUtbck6A 
 3. Instance of robot movement: https://youtu.be/ZpbFvkNczKo
 
-[Flowchart of Algorithm.zip](https://github.com/chiameixi/crowd-clustering-robot/files/9228021/Flowchart.of.Algorithm.zip)
+
+<object data="https://github.com/chiameixi/crowd-clustering-robot/files/9228024/Flowchart.of.Algorithm.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+[Flowchart of Algorithm.pdf](https://github.com/chiameixi/crowd-clustering-robot/files/9228024/Flowchart.of.Algorithm.pdf)
